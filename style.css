@@ -1,0 +1,67 @@
+body{	font-family: 'Segoe UI';
+		font-size: 15px;
+		margin: 0px;
+		padding: 0px;}
+
+h1{	font-size: 45px;
+	font-weight: normal;
+	text-align: center;}
+
+h2{	text-align: center;}
+
+h3{	text-align: center;}
+
+header{	height: 90px;}
+
+footer{	height: 90px;
+		margin: -5px 0px;
+		padding: 10px;
+		text-align: center;
+		background-color: #008800;}
+
+nav{	width: 100%;
+		background-color: #008800;}
+
+nav ul{	margin: 0px;
+		padding: 0px;}
+
+nav li{	list-style-type: none;
+		float: left;}
+
+nav a{	display: inline-block;
+		text-decoration: none;
+		padding: 20px 30px;
+		color: white;
+		text-transform: uppercase;
+		font-size: 15px;}
+
+article{	margin: 50px 50px;}
+
+article p{	text-align: center;}
+
+article ul{	text-align: center;}
+
+article li{	margin: 10px 50px;
+			list-style-type: none;
+			display: inline-block;
+			font-weight: bold;
+			text-align: left;}
+
+/*.left{	float: left;
+		width: 50%;}
+
+.right{	float: left;
+		width: 50%;}*/
+
+.table{	display: table;
+		margin: 0 auto;}
+
+.menu-index:hover{	background-color: RGBa(0, 200, 0, 0.5);}
+
+.menu-expro:hover{	background-color: RGBa(0, 200, 0, 0.5);}
+
+.menu-formations:hover{	background-color: RGBa(0, 200, 0, 0.5);}
+
+.menu-interets:hover{	background-color: RGBa(0, 200, 0, 0.5);}
+
+.menu-contact:hover{	background-color: RGBa(0, 200, 0, 0.5);}
